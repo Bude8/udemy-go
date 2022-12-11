@@ -47,7 +47,7 @@ func main() {
 	// * - give me the value this memory address is pointing at
 
 	// SHORTCUT
-	// If we have a variable of type person, we can have a receive of pointer to person, that's ok
+	// If we have a variable of type person, we can have a receiver of pointer to person, that's ok
 	// jim is type of person
 	// jimPointer := &jim
 	// jimPointer.updateName("Jimmy")
